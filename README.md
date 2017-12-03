@@ -18,3 +18,11 @@ A simple project with SQLite implementation<a href="https://github.com/JaeNuguid
 - Listview
 - SQLite
 - Sharedpreferences 
+
+## Screenshots
+<img src="https://github.com/JaeNuguid/Simple-SQLite-Project/blob/master/app/src/main/res/drawable-v24/ss3.PNG?raw=true" />
+<img src="https://github.com/JaeNuguid/Simple-SQLite-Project/blob/master/app/src/main/res/drawable-v24/ss1.PNG?raw=true" />
+<img src=https://github.com/JaeNuguid/Simple-SQLite-Project/blob/master/app/src/main/res/drawable-v24/ss2.PNG?raw=true" />
+
+# Download APK
+soon...
