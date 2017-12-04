@@ -25,4 +25,5 @@ A simple project with SQLite implementation<a href="https://github.com/JaeNuguid
 <img src=https://github.com/JaeNuguid/Simple-SQLite-Project/blob/master/app/src/main/res/drawable-v24/ss2.PNG?raw=true" />
 
 # Download APK
-soon...
+</a><a href="https://github.com/JaeNuguid/Simple-SQLite-Project/releases/download/v1/JaeSweets.apk">
+  <img src="https://image.ibb.co/eSghrR/2.png"/>
